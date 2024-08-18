@@ -11,8 +11,6 @@ This React Native project demonstrates fetching and displaying posts from an API
 - [State Management](#state-management)
 - [Error Handling](#error-handling)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -61,7 +59,7 @@ Follow these steps to set up the project locally.
 
 ## Language Support
 
-This app supports both English (LTR) and Arabic (RTL). Language selection is managed through the `i18n` directory, where translation files (`en.json` and `ar.json`) are stored. You can switch between languages within the app, and the UI will adjust accordingly.
+This app supports both English (LTR) and Arabic (RTL). Language selection is managed through the `i18n` directory, where translation files (`en.json` and `ar.json`) are stored. You can switch between languages within the app with a bottom, and the UI will adjust accordingly.
 
 ## State Management
 
