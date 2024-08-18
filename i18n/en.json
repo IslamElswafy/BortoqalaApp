@@ -1,0 +1,26 @@
+{
+    "posts": "Posts",
+    "details": "Details",
+    "user": "User",
+    "userDetails": "User Details",
+    "name": "Name",
+    "username": "Username",
+    "email": "Email",
+    "phone": "Phone",
+    "website": "Website",
+    "address": "Address",
+    "street": "Street",
+    "suite": "Suite",
+    "city": "City",
+    "zipcode": "Zip Code",
+    "company": "Company",
+    "title": "Title",
+    "about.routeName": "PostDetails",
+    "body": "Body",
+     "Switch to Arabic": "Switch to Arabic",
+  "Switch to English": "Switch to English",
+    "companyName": "Company Name",
+    "catchPhrase": "Catch Phrase",
+    "bs": "Business Strategy"
+  }
+  
