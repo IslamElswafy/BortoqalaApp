@@ -25,7 +25,7 @@ Follow these steps to set up the project locally.
 2. **Navigate to the project directory**:
 
    ```bash
-   cd BortoqalaAppV2
+   cd BortoqalaApp
    ```
 
 3. **Install dependencies**:
